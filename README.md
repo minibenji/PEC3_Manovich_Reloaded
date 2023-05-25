@@ -4,7 +4,7 @@
 
 Autor: Benjamín Raya Lozano, fecha 22/05/2023
 
-![Personas disfrutando de realidad virtual](https://upload.wikimedia.org/wikipedia/commons/7/79/Zero_Latency_Virtual_Reality_Experience.jpg)
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zero_Latency_Virtual_Reality_Experience.jpg/800px-Zero_Latency_Virtual_Reality_Experience.jpg?20191030072916)
 
 Imagen de [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
 ## Introducción
