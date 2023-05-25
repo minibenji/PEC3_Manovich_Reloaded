@@ -5,6 +5,7 @@
 Autor: Benjamín Raya Lozano, fecha 22/05/2023
 
 ![Gafas de realidad virtual](https://cdn.pixabay.com/photo/2019/11/11/11/43/fantasy-4618133_1280.jpg)
+
 Imagen de [Pixabay](https://pixabay.com/es/).
 ## Introducción
 
