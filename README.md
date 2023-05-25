@@ -29,9 +29,9 @@ El origen de este videojuego proviene de la adaptación de la versión *"Superho
 
 En cuanto al aspecto del juego es minimalista ya que consiste en un fondo completamente blanco y unos enemigos de cristal de color rojo, cosa que les da contraste y consiguen que el protagonista únicamente preste atención al objetivo. Esta mezcla de juego de acción, gráficos y realidad virtual crean la experiencia inmersiva perfecta.
 
-En cuanto a la hibridación hay puntos claros, para empezar la fusión de realidad virtual con la mecánica de un juego. No solo hay que tener en cuenta las gafas de realidad virtual sino que también el jugador debe manejar unos controladores con las manos para manipular armas virtuales. Además, tambien hay una fusión de juego de acción con la continua necesidad de resolver acertijos, que harán que el jugador este concentrado para no ser alcanzado por los rivales y mantendrá el clima de la inmersión. Finalmente, también existe una hibridación con el ámbito social debido a que los jugadores pueden compartir puntuaciones y los mejores momentos con sus redes sociales a través del juego.
+En cuanto a la hibridación se observan puntos claros, para empezar la fusión de realidad virtual con la mecánica de un juego. No solo hay que tener en cuenta las gafas de realidad virtual sino que también el jugador debe manejar unos controladores con las manos para manipular armas virtuales. Además, tambien hay una fusión de juego de acción con la continua necesidad de resolver acertijos, que harán que el jugador este concentrado para no ser alcanzado por los rivales y mantendrá el clima de la inmersión. Finalmente, también existe una hibridación con el ámbito social debido a que los jugadores pueden compartir puntuaciones y los mejores momentos con sus redes sociales a través del juego.
 
-En conclusión,  *Superhot VR* es valorado como uno de los juegos revolucionarios e innovadores en campos de la realidad virtual y de la plena inmersión del jugador dentro de la acción. Por toda esta fusión de mecánicas de videojuego, realidad virtual, narrativa minimalista... este videojuego, generan nuevas y espectaculares experiencias de juego, en definitiva un claro ejemplo de hibridación digital.
+En conclusión,  *Superhot VR* es valorado como uno de los juegos revolucionarios e innovadores en campos de la realidad virtual y de la plena inmersión del jugador dentro de la acción. Por toda esta fusión de mecánicas de videojuego, realidad virtual, narrativa minimalista... este videojuego, genera nuevas y espectaculares experiencias de juego, en definitiva un claro ejemplo de hibridación digital.
  
 ![Gafas de realidad virtual](https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/12/Pico-4-2-768x576.jpg)
 
@@ -44,7 +44,7 @@ El caso es que esta serie no es una común, en esta serie se aplica la revolucio
 
 En cuanto al ámbito de la hibridación, también tenemos puntos claves. En primera instancia, se combina un programa clásico de supervivencia donde el espectador es simplemente pasivo, en *You vs Wild* este toma un papel de espectador activo ya que decide que camino debe seguir Bear, eligen las respuestas de los desafíos y por lo tanto el resultado de la supervivencia. Seguidamente, vemos otra fusión de tecnología y narrativa que tienen actualmente gran numero de plataformas. que a través de dispositivos móviles interactúan con el desarrollo de la historia.
 
-En conclusión, Netflix en este caso, ha cambiado la experiencia televisiva que antes únicamente constaba de una pasividad tradicional y la ha convertido en una interactiva y novedosa tecnología. De esta manera el espectador estará inmerso en la propia experiencia y creara un ambiente mas envolvente.
+En conclusión, Netflix en este caso, ha cambiado la experiencia televisiva que antes únicamente constaba de una pasividad tradicional y la ha convertido en una interactiva y novedosa tecnología. De esta manera el espectador estará inmerso en la propia experiencia y cree un ambiente más envolvente.
 
 ![Bear Grylls](https://live.staticflickr.com/8036/29112557790_e7b3cc21a9_b.jpg)
 
